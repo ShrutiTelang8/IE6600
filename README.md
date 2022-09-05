@@ -1,4 +1,4 @@
-# IE6600
+# COURSE : IE6600
 Computation and Visualization for Analytics  
 
 Obesity estimation based on eating habits and physical conditions
